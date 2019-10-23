@@ -1,6 +1,12 @@
-$body-color: slateblue;
-
-body {
-  color: $body-color;
-  font-family: sans-serif;
+del {
+  color: red;
+}
+ins {
+  color: green;
+}
+dfn {
+  color: rgb(255, 127, 155);
+}
+kbd {
+  background: rgb(81, 165, 42);
 }
