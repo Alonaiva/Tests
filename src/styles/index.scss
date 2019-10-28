@@ -1,12 +1,15 @@
-del {
-  color: red;
+table,
+td {
+  border: 1px solid black;
 }
-ins {
+
+thead {
   color: green;
+  text-align: left;
 }
-dfn {
-  color: orange;
+tbody {
+  color: blue;
 }
-kbd {
-  background: gray;
+tfoot {
+  color: purple;
 }
