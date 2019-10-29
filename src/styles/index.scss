@@ -1,8 +1,17 @@
+$body-color: black;
+
+body {
+  color: $body-color;
+  font-family: sans-serif;
+}
+table {
+  border-collapse: collapse;
+}
 table,
+tr,
 td {
   border: 1px solid black;
 }
-
 thead {
   color: green;
   text-align: left;
