@@ -1,25 +1,47 @@
-$body-color: black;
-
-body {
+/* body {
   color: $body-color;
   font-family: sans-serif;
-}
+} */
+
 table {
   border-collapse: collapse;
 }
-
-  table,
-  h1 
-  {color: darksalmon;
-  }
 
 table,
 tr,
 td {
   border: 1px solid black;
 }
+
+/* table tr,
+td {
+  border-collapse: collapse;
+  color: black;
+} */
+/* table {
+  color: rgb(12, 11, 11);
+} */
+/* table {
+  border-collapse: collapse;
+}  */
+figcaption {
+  text-align: center;
+  font-size: 30px;
+  color: rgb(12, 11, 10);
+}
+
+/* table,
+h1 {
+  color: darksalmon;
+} */
+
+/* table,
+tr,
+td {
+  border: 1px solid black;
+}
 thead {
-  color: rgb(3, 102, 3);
+  color: rgb(10, 10, 10);
   text-align: left;
 }
 tbody {
@@ -27,8 +49,8 @@ tbody {
 }
 tfoot {
   color: rgb(73, 6, 73);
-}
-figcaption {
+} */
+/* figcaption {
   text-align: center;
   font-size: 20px;
-}
+} */
